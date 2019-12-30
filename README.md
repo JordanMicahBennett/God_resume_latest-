@@ -1,6 +1,6 @@
 Please see my resume below:
 
-[Jordan's resume on google drive.](https://drive.google.com/file/d/1Xa_uBVOL4YUDQp3DB3uym9X1X1w2Ab5r/view)
+[Jordan's resume on google drive.](https://drive.google.com/file/d/1BetyLvzMyLp5Xc7FEhcQi7GEKdo6pfb3/view)
 
 * This resume mostly concerns artificial intelligence items.
 
