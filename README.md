@@ -35,7 +35,7 @@ God Bennett ([Name legally changed from: Jordan Micah Bennett](https://www.resea
 
 actually hold a conversation with.
 
-● Author of "[Aria Dio](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMScbXKCJQmgLWMdFGTxHPvxfPFTCRCnfrCFbWHhgQQsWSNXsgfpfjsdZBMJWXpMDldNFTm) ", Italian for "Air God", supercar project.
+● Author of "[Aria Dio](https://www.facebook.com/TheAriaDio/) ", Italian for "Air God", supercar project.
 
 ● Author of [NVIDIA-featured Ai based pothole detector](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano) .
 
