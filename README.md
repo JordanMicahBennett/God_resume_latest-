@@ -1,6 +1,7 @@
-Please see my resume below:
+Portfolio: http://g0d.rf.gd
 
-[God's resume on google drive.](https://drive.google.com/file/d/16xNhZGFK--kQMLyNSPPC9JRN4P8Dn-ri/view)
+Resume: [God's resume on google drive.](https://drive.google.com/file/d/16xNhZGFK--kQMLyNSPPC9JRN4P8Dn-ri/view)
+
 
 * This resume mostly concerns artificial intelligence items.
 
