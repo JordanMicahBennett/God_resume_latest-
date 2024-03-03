@@ -2,6 +2,10 @@ Portfolio: http://g0d.rf.gd
 
 Resume: [God's resume on google drive.](https://drive.google.com/file/d/1zSHREKFEq0M-F4iC-v_W0JE8DzwGyPIk/view)
 
+Self driving car  designed by Bennett:
+* [iGodCollective](https://igodcollective.github.io/)
+* [OmniAutomobil]([https://igodcollective.github.io/](https://theomniautomobil.github.io/))
+
 Core system of operation: [My 2015 invention, "non-beliefism"](https://non-beliefism.github.io)
 
 My local newspaper interview by [Paul](https://jamaica-gleaner.com/authors/paul-h-williams-sunday-gleaner-writer) H Williams: [An atheist named himself God](https://jamaica-gleaner.com/article/news/20220227/atheist-named-himself-god)
