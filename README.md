@@ -4,7 +4,7 @@ Resume: [God's resume on google drive.](https://drive.google.com/file/d/1zSHREKF
 
 Self driving car  designed by Bennett:
 * [iGodCollective](https://igodcollective.github.io/)
-* [OmniAutomobil]([https://igodcollective.github.io/](https://theomniautomobil.github.io)
+* [OmniAutomobil](https://igodcollective.github.io/](https://theomniautomobil.github.io)
 
 Core system of operation: [My 2015 invention, "non-beliefism"](https://non-beliefism.github.io)
 
